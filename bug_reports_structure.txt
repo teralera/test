@@ -1,0 +1,16 @@
+Bug number
+Summary
+Description
+Project
+Component
+Vesion
+Severity
+Priority
+Steps to reproduce 
+Actual Result
+Expected Result
+Attachment
+Author
+Assigned to
+Environment
+
